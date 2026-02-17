@@ -1,3 +1,8 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 struct ISBNTester {
     vector<int> generateFirstNPrimeNumbers(int N);
     int getRandomNumberInVect(vector<int> primeVect, int N);

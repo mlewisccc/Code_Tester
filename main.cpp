@@ -7,5 +7,6 @@ ISBNTester tester;
 int main() {
     int primeSize = 10;
     vector<int> primeNumbers = tester.generatePrimeNumbers(primeSize);
-    
+    cout << "Hello" << endl;
+    return 0;
 }
