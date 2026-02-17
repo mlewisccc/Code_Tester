@@ -1,4 +1,5 @@
 #include "ISBNTester.h"
+#include <iostream>
 #include <vector>
 using namespace std;
 
